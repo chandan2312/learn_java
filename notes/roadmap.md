@@ -28,22 +28,22 @@ This roadmap is designed to take you from a complete beginner to an advanced Jav
     - **Resources:** `[Course]/07-Conditionals`, `[Notes]/JavaLesson004`
 
 - **Day 4: Control Flow (Loops)**
-    - **Topics:** for, while, do-while loops, break/continue.
-    - **Practice:** "Multiplication Table", "Number Guessing Game".
+    - **Topics:** Nested loops, break/continue, optimization logic.
+    - **Practice:** "Diamond Pattern Printer", "Prime Number Generator (Optimized)".
     - **Resources:** `[Course]/08-Loops`, `[Notes]/JavaLesson005`
 
-- **Day 5: Introduction to Methods**
-    - **Topics:** Defining methods, parameters, return types, method overloading.
-    - **Practice:** Refactor previous calculator to use methods.
+- **Day 5: Methods & Recursion**
+    - **Topics:** Stack memory, Pass-by-Value, Recursion vs Iteration.
+    - **Practice:** "Fibonacci Sequence (Recursive vs Iterative)", "Factorial with Memoization".
     - **Resources:** `[Course]/02-IntroductionToMethods...`
 
-- **Day 6: Introduction to OOP (Classes & Objects)**
-    - **Topics:** Class vs Object, Constructors, `this` keyword.
-    - **Practice:** Create a `Book` class and `Library` system.
+- **Day 6: OOP - Classes & Object Lifecycle**
+    - **Topics:** Constructors, `this`, `static` vs instance, Object initialization order.
+    - **Practice:** "Employee Management System" (with static ID generation and validation).
     - **Resources:** `[Course]/05-IntroductionToOOP...`, `[Notes]/JavaLesson006`
 
 - **Day 7: Review & Mini-Project 1**
-    - **Project:** **Console-based Banking System** (Create accounts, deposit, withdraw).
+    - **Project:** **ATM Simulation** (PIN validation, daily limits, transaction logs, persistence).
     - **Revision:** Review notes from `[Important-Java-Concepts]`.
 
 ---
@@ -52,8 +52,8 @@ This roadmap is designed to take you from a complete beginner to an advanced Jav
 **Goal:** Deep dive into OOP principles and essential Java libraries.
 
 - **Day 8: OOP - Encapsulation & Inheritance**
-    - **Topics:** Access modifiers, Getters/Setters, `extends`, `super`.
-    - **Practice:** Extend Banking System with `SavingsAccount` and `CheckingAccount`.
+    - **Topics:** Protected access, `super` constructor chaining, Upcasting/Downcasting.
+    - **Practice:** "E-Commerce Product Hierarchy" (Digital vs Physical products with tax rules).
     - **Resources:** `[Course]/11-OOPAgain`, `[Notes]/JavaLesson007-008`
 
 - **Day 9: OOP - Polymorphism & Abstraction**
@@ -61,9 +61,9 @@ This roadmap is designed to take you from a complete beginner to an advanced Jav
     - **Practice:** Implement `Shape` interface with `Circle`, `Rectangle`.
     - **Resources:** `[Course]/11-OOPAgain`, `[Notes]/JavaLesson009-010`
 
-- **Day 10: Arrays & ArrayList**
-    - **Topics:** Fixed-size arrays vs ArrayList, iterating, common operations.
-    - **Practice:** "Student Grade Manager" using ArrayList.
+- **Day 10: Arrays & Matrices**
+    - **Topics:** Multi-dimensional arrays, Array memory layout, Algorithms.
+    - **Practice:** "Matrix Multiplication" or "Sudoku Validator".
     - **Resources:** `[Course]/10-ArraysAndArrayList`, `[Notes]/JavaLesson011-012`
 
 - **Day 11: String Manipulation**
